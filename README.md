@@ -23,7 +23,7 @@ This is a simple git that'll help you get up and running on Microsoft/Azure with
 
     >>Hint: `vi setup.sh` then paste the commands and run `chmod +x setup.sh` and finally `./setup.sh`
 
-7. Fork this git (which includes deck and instructions) and make it unique to the class (edit IP's, URL's ETC): https://github.com/chudro/DataStaxDay
+7. Fork this git (which includes instructions) and make it unique to the class (edit IP's, URL's ETC): https://github.com/chudro/DataStaxAzureRetailEvent
 
     >>Note, all nodes now have public IP's so you'll have acces to DevCenter, Spark UI, and Solr UI
 
@@ -34,7 +34,7 @@ You will login with:
 
 >**Password: C@ssandra**
 
-**To get your public IP's:** You can find them at resources.azure.com under Subscriptions -> SE/SA -> Your group -> Network -> PublicIP
+**To get your public IP's:** You can find them at resources.azure.com under Subscriptions -> Your group -> Network -> PublicIP
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMarcintheCloud%2FAzureTechDaySetup%2Fmaster%2Fsingledc%2FmainTemplate.json" target="_blank">
     <img src="http://susankaywyatt.com/wp-content/uploads/2010/10/staples-easy-button.png"/>
